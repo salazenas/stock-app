@@ -1,1 +1,1 @@
-# EstoqueApp
+# stock-app
